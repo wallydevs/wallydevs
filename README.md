@@ -1,6 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Olá,%20Eu%20sou%20o%20Wally!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+<img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=Ol%C3%A1,%20Eu%20sou%20o%20Wally!%20%F0%9F%98%81&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  /></div>
 
 ---
 
@@ -53,5 +52,6 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
 <div align="center">
   ⭐️ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios! ⭐️
 </div>
+
 
 
