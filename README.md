@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Olá,%20Eu%20sou%20o%20Wally!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Olá,%20Eu%20sou%20o%20Wally!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 ---
@@ -47,14 +47,11 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wallydevs&theme=dracula&locale=pt-br" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=wallydevs&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
 </div>
 
 <div align="center">
   ⭐️ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios! ⭐️
 </div>
+
 
