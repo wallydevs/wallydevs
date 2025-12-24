@@ -50,36 +50,6 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
   <img src="https://streak-stats.demolab.com/?user=wallydevs&theme=dracula&locale=pt-br" alt="GitHub Streak"/>
 </div>
 
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wallydevs/wallydevs/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wallydevs/wallydevs/output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuições estilo Pacman" src="https://raw.githubusercontent.com/wallydevs/wallydevs/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
----
-
-## 🤝 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:seu.email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wallydevs&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
 </div>
@@ -87,3 +57,4 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
 <div align="center">
   ⭐️ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios! ⭐️
 </div>
+
