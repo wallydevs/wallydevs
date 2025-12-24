@@ -40,10 +40,6 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallydevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallydevs&layout=compact&langs_count=8&theme=dracula&locale=pt-br"/>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wallydevs&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
@@ -52,6 +48,7 @@ Sou desenvolvedor apaixonado por criar soluções incríveis com código. Estou 
 <div align="center">
   ⭐️ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios! ⭐️
 </div>
+
 
 
 
